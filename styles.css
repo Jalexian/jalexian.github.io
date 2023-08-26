@@ -7,4 +7,8 @@ h1 {
 p {
   color: #F5F5F5;
 }
+ 
+  .link:hover { 
+    color: #EAC700; 
+}
 
